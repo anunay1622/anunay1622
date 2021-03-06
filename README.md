@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anunay1622&label=Profile%20views&color=0e75b6&style=flat" alt="anunay1622" /> </p>
 
-- 🔭 I’m currently for **EXL Services.**
+- 🔭 I’m currently working for **EXL Services.**
 
 - ⚡ Fun fact **I love football.**
 

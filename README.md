@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anunay</h1>
-<h3 align="center">A passionate Business Analyst from India</h3>
+<h3 align="center">An experienced professional with expertise in using Data Science and Predictive Modelling to drive Business Solutions </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anunay1622&label=Profile%20views&color=0e75b6&style=flat" alt="anunay1622" /> </p>
 
